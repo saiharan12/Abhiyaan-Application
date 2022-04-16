@@ -11,11 +11,11 @@ for i in range(m):
     #reformating from string to integers
     for c in range(len(t)): t[c]=int(t[c])
     li.append(t)
-
+    
+#running a binary search to find the row
 h=m-1
 l=0
 
-#running a binary search to find the row
 while l<=h:
     mid=(h+l)//2
 
