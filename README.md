@@ -17,3 +17,7 @@
 <b> Relevant courses </b>:<br>
 None as of now, hopefully more if and once I join the team. PS: I do most of my learning from stackoverflow and other forums, so it's hard to put it as a course<br>
 <b> Other Relevant Things </b>: I kinda like learning stuff on the go, which means I absolutely LOVED attempting this application. I never knew I'd be able to learn OpenCV , ROS and turtlesim in like a weeks time, tho it was turtlesim that ate most of it xD. Not to mention, read a reasearch paper too<br>
+<b>Did you attempt bonus questions:</b>
+1. Yes<br>
+2. Yes<br>
+3. No
