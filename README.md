@@ -15,4 +15,5 @@
 <b> Why I want to work in the team </b>:<br> Autonomous driving is simply put, the upcoming future, and I believe that building my expertise in a matter that is both relevant to the market and interesting for me is just a deal I can't resist. And who doesn't like winning a competition.<br>
 <br>
 <b> Relevant courses </b>:<br>
+None as of now, hopefully more if and once I join the team. PS: I do most of my learning from stackoverflow and other forums, so it's hard to put it as a course<br>
 <b> Other Relevant Things </b>: I kinda like learning stuff on the go, which means I absolutely LOVED attempting this application. I never knew I'd be able to learn OpenCV , ROS and turtlesim in like a weeks time, tho it was turtlesim that ate most of it xD. Not to mention, read a reasearch paper too<br>
