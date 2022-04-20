@@ -20,4 +20,11 @@ None as of now, hopefully more if and once I join the team. PS: I do most of my 
 <b>Did you attempt bonus questions:</b><br>
 1. Yes<br>
 2. Yes<br>
-3. No
+3. No<br>
+<br>
+<b>Sources:</b><br>
+<a href="https://www.educative.io/edpresso/what-is-a-bash-script"> Bash Scripts</a>
+<a href="http://wiki.ros.org/turtlesim"> ROS TurtleSim</a>
+<a href="http://wiki.ros.org"> ROS Basics</a>
+<a href="https://www.youtube.com/watch?v=WQeoO7MI0Bs"> OpenCV</a>
+
