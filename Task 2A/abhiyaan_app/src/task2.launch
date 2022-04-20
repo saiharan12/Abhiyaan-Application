@@ -1,5 +1,0 @@
-<launch> 
-	<node name="talker" pkg="abhiyaan_app" type="task2publish.py" output="screen" />
-	<node name="listener" pkg="abhiyaan_app" type="task2subs.py" output="screen" />
-	<node name="reverser" pkg="abhiyaan_app" type="task2rev.py" output="screen" />
-</launch>
