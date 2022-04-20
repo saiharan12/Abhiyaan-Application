@@ -23,8 +23,8 @@ None as of now, hopefully more if and once I join the team. PS: I do most of my 
 3. No<br>
 <br>
 <b>Sources:</b><br>
-<a href="https://www.educative.io/edpresso/what-is-a-bash-script"> Bash Scripts:https://www.educative.io/edpresso/what-is-a-bash-script</a><br>
-<a href="http://wiki.ros.org/turtlesim"> ROS TurtleSim:http://wiki.ros.org/turtlesim</a><br>
-<a href="http://wiki.ros.org"> ROS Basics:http://wiki.ros.org</a><br>
-<a href="https://www.youtube.com/watch?v=WQeoO7MI0Bs"> OpenCV:https://www.youtube.com/watch?v=WQeoO7MI0Bs</a><br>
+<a href="https://www.educative.io/edpresso/what-is-a-bash-script"> Bash Scripts: https://www.educative.io/edpresso/what-is-a-bash-script</a><br>
+<a href="http://wiki.ros.org/turtlesim"> ROS TurtleSim: http://wiki.ros.org/turtlesim</a><br>
+<a href="http://wiki.ros.org"> ROS Basics: http://wiki.ros.org</a><br>
+<a href="https://www.youtube.com/watch?v=WQeoO7MI0Bs"> OpenCV: https://www.youtube.com/watch?v=WQeoO7MI0Bs</a><br>
 
